@@ -38743,5 +38743,12 @@
     "author": "MapleCheng",
     "description": "Move selected files and folders to a configurable mirror archive root while preserving their original vault path. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maplecheng/obsidian-mirror-archive"
+  },
+  {
+    "id": "obsidian-pdf-ingest",
+    "name": "PDF Ingest",
+    "author": "Super-Gemmi",
+    "description": "Ergänzt ein Kontextmenü 'PDF-Ingest' für PDF-Dateien, um diese in strukturiertes Markdown zu konvertieren.",
+    "repo": "breti169-arch/obsidian-pdf-ingest"
   }
 ]
